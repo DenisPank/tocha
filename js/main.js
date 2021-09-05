@@ -3,6 +3,7 @@ $(document).ready(function () {
     slidesToShow: 3,
     slidesToScroll: 3,
     centerMode: true,
+    arrows: false,
     dots: true,
     responsive: [
       {
